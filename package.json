@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AIChatGPT/AiChatGPT"
+    "url": "git+https://github.com/AIChatGPT/AiChatGPT.git"
   },
   "author": "",
   "license": "ISC",
